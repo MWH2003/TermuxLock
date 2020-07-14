@@ -1,5 +1,7 @@
-#Bismillah
-#Assalamu-Alaikium
+#MWH
+#MASK WALA HACKER
+
+Subscribe-https://www.youtube.com/channel/UCeCo6-X-iyBi_Xt7QZhgZWw
 
  [+] Information :
 
@@ -14,7 +16,7 @@
    that .in futere i will make this script more secure/
    insha allah.
 
-   Termux-Login-v1.2 
+   TermuxLock
 
 [+] warning :- if anybody want to modify this script and want to 
     upload on own github then you guys make sure to give my original github link on your README.md as a credit..okk

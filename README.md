@@ -23,9 +23,9 @@ Subscribe-https://www.youtube.com/channel/UCeCo6-X-iyBi_Xt7QZhgZWw
 
 [+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    git clone https://github.com/MWH2003/TermuxLock
 
-    cd Termux-Login
+    cd TermuxLock
 
     mv README.md log.py /$HOME
 
